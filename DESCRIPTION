@@ -12,3 +12,6 @@ LazyData: true
 URL: https://github.com/tbobin/TBtheme
 BugReports: https://github.com/tbobin/TBtheme/issues
 RoxygenNote: 6.1.1
+Imports: 
+    ggplot2,
+    scales

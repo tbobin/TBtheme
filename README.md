@@ -27,6 +27,10 @@ All the colors
 library(TBtheme)
 library(ggplot2)
 
+# current verison
+packageVersion("TBtheme")
+#> [1] '0.0.9000'
+
 scales::show_col(tb_pal()(18))
 ```
 
