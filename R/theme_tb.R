@@ -4,6 +4,7 @@
 #' @md
 #' @inheritParams ggplot2::theme_minimal
 #'
+#' @export
 theme_tb <- function(base_size = 11, base_family = "",
                      plot_title_family=base_family, base_line_size = base_size/21,
                      base_rect_size = 10.5/21, major.linetype = 2){
